@@ -3,6 +3,11 @@ Collection of amazing playlists for your coding sessions
 
 ## Youtube
 
+## Beats
+| Sr. | Link | Genres |
+|-----|------|--------|
+| 1   |  https://www.youtube.com/watch?v=6rvv8bU3pKA    |    Feels like you are a hero    |
+
 ## English
 
 | Sr. | Link | Genres |
