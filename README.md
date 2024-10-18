@@ -7,12 +7,15 @@ Collection of amazing playlists for your coding sessions
 | Sr. | Link | Genres |
 |-----|------|--------|
 | 1   |  https://www.youtube.com/watch?v=6rvv8bU3pKA    |    Feels like you are a hero    |
+| 2   |  https://www.youtube.com/@mundiopus    |    Sus and happy beats    |
+| 3   |  https://youtube.com/playlist?list=PLn8rjh_graDZ6h6BcsjeTRlgHT01B0WL1&si=rJ86DioK3GD5MSUV    |    High beats, dark, happy and chill    |
+
 
 ## English
 
 | Sr. | Link | Genres |
 |-----|------|--------|
-| 1   |      |        |
+| 1   |   https://www.youtube.com/playlist?list=PLn8rjh_graDbthnQLcQm0adkhPoSKZPlT   |   Happy, chill     |
 
 ## Hindi
 
